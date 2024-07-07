@@ -2,7 +2,7 @@
 
 Welcome to the Morse Code Converter GitHub repository! This application allows users to easily convert text to Morse code and Morse code back to text.
 
-Link: (https://morseme.vercel.app/)
+Link: https://morseme.vercel.app/
 
 ## Features
 
